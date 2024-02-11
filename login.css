@@ -80,7 +80,7 @@ nav {
   background-color: red;
   color: #ffffff;
   flex: 1;
-  width: 300px;
+  
   font-size: 25px;
   font-weight: 500;
   margin-bottom: 15px;
@@ -199,18 +199,11 @@ footer .footer-language-button img {
   }
 
   .main-container .password-input input,
-  .main-container .input-box input {
+  .main-container .input-box input,{
     padding: 10px 5px;
     font-size: 10px;
   }
-  .main-container button {
-    padding: 15px 30px;
-
-    width: 250px;
-    font-size: 15px;
-    font-weight: 500;
-    margin-bottom: 10px;
-  }
+  
   .foot-text {
     display: flex;
     max-width: 350px;
